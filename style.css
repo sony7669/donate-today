@@ -1,0 +1,21 @@
+body{
+  font-family: 'Mukta', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+.topbg-image{
+  background-image: url(images/donation13.jpg);
+}
+.white-title{
+  color: white;
+}
+p{
+  font-size: 22px;
+  text-align: center;
+}
+.donate-button{
+  background-image: linear-gradient(orange, red);
+  padding: 8px;
+  border-radius: 5px;
+
+}
