@@ -1,21 +1,29 @@
 body{
   font-family: 'Mukta', sans-serif;
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
+  margin: 0%;
 }
 .topbg-image{
   background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  padding: 8%;
 }
 .white-title{
   color: white;
 }
 p{
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
 }
 .donate-button{
   background-image: linear-gradient(orange, red);
-  padding: 8px;
+  padding: 10px;
   border-radius: 5px;
-
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
 }
