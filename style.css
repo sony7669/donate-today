@@ -1,5 +1,6 @@
 body{
   font-family: 'Poppins', sans-serif;
+  margin: 0%;
 }
 .main-headline{
   font-size: 55px;
@@ -24,4 +25,42 @@ body{
   background-size: cover;
   padding: 8%;
   text-align: center;
+}
+.second-headline{
+  font-size: 45px;
+}
+.second-section{
+  text-align: center;
+  padding: 9%;
+}
+.container{
+  display: flex;
+  margin-left: 10%;
+}
+.element{
+  height: 95px;
+  width: 155px;
+  background-color: whitesmoke;
+  margin: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: dimgray;
+}
+.ele-differnet{
+  text-align: center;
+  height: 95px;
+  width: 155px;
+  background-color: rgb(248, 224, 224);
+  margin: 10px;
+  font-size: 20px;
+  border: 3px solid rgb(250, 151, 151);
+  border-radius: 5px;
+  color: rgb(248, 94, 94);
+}
+.descript{
+  color: darkgray;
+}
+div hr{
+  margin-left: 10%;
+  margin-right: 10%;
 }
