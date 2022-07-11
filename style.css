@@ -109,3 +109,32 @@ section{
   width: 110%;
   border-radius: 5px;
 }
+.fourth-title{
+  font-size: 45px;
+  text-align: center;
+}
+.fourth-section{
+  text-align: center;
+}
+.Newsletter{
+  text-align: center;
+}
+.email-input{
+  text-decoration: none;
+  background-color: rgb(175, 173, 173);
+  padding: 10px;
+  margin-right: -5px;
+  border: none;
+  border-radius: 5px 0px 0px 5px;
+  color: rgb(253, 246, 246);
+  font-weight: 700;
+}
+.newsletter-link{
+  text-decoration: none;
+  padding: 10px;
+  background-color: rgb(248, 63, 56);
+  border: none;
+  color: white;
+  border-radius: 0px 5px 5px 0px;
+  font-weight: 700;
+}
